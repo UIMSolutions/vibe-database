@@ -22,3 +22,7 @@ docs/
 
 # Code coverage
 *.lst
+backend/build/vibe-database
+backend/dub.selections.json
+.yamlink/history-backfill.done
+.yamlink/health-snapshots.ndjson
