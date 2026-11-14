@@ -3,14 +3,6 @@
 * License: Subject to the terms of the Apache 2.0 license, as written in the included LICENSE.txt file.
 * Authors: Ozan Nurettin Süel (aka UI-Manufaktur UG *R.I.P*)
 *****************************************************************************************************************/
-module vibe.database.domain.types.columndef;
+module source.vibe.database.presentation.cli;
 
-import vibe.database;
-
-mixin(ShowModule!());
-
-@safe:
-struct ColumnDef {
-    string name;
-    ColumnType type;
-}
+public:
