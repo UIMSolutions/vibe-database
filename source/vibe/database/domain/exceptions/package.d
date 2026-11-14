@@ -1,0 +1,1 @@
+module vibe.database.domain.exceptions;
